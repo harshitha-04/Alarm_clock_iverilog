@@ -22,16 +22,6 @@ The design consists of:
 
 ---
 
-## 🛠️ Files Included
-
-```bash
-alarmclock.v        # Verilog module for the digital alarm clock
-alarmclock_tb.v     # Testbench to simulate and test the alarm clock
-dump.vcd            # Waveform output (generated after simulation)
-```
-
----
-
 ## ▶️ How to Run (Using Icarus Verilog)
 
 ### 1. Compile the Design
